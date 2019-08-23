@@ -1,0 +1,12 @@
+.post-list-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background:lightgray;
+}
+
+.post {
+  width: 50%;
+  margin: 20px 0px;
+}
